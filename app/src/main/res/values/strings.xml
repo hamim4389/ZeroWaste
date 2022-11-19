@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Option_1">Complain</string>
+    <string name="Option_2">Request</string>
+    <string name="Option_3">Map</string>
+    <string name="Option_4">Disposal Info.</string>
+    <string name="Option_5">Schedule</string>
+    <string name="Option_6">Overview</string>
+    <string name="Option_7">Notifications</string>
+</resources>
